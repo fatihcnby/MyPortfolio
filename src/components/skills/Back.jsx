@@ -23,14 +23,14 @@ const Back = () => {
         </div>
         <div className="skills-group">
           <div className="skills_data">
-            <i class="bx bx-badge-check"></i>
+            <i className="bx bx-badge-check"></i>
             <div>
               <h3 className="skills_name">Redux</h3>
               <span className="skills_level">Middle</span>
             </div>
           </div>
           <div className="skills_data">
-            <i class="bx bx-badge-check"></i>
+            <i className="bx bx-badge-check"></i>
             <div>
               <h3 className="skills_name">Typscript</h3>
               <span className="skills_level">Middle</span>

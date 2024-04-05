@@ -10,8 +10,8 @@ const Skills = () => {
       <h4 className="section_subtitle">Yazılım Dilleri</h4>
 
       <div className="skills_container container grid">
-        <Front/>
-        <Back/>
+        <Front />
+        <Back />
       </div>
     </section>
   );

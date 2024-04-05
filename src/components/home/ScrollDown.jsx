@@ -21,7 +21,7 @@ const ScrollDown = () => {
           }}
         >
           <path
-            class="wheel"
+            className="wheel"
             d="M123.359,79.775l0,72.843"
             style={{
               fill: "none",
