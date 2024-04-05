@@ -7,6 +7,14 @@ The mailbox can be used without any problems.
 I designed it to be usable on all devices.
 
 
+<h2> Screenshot </h2>
+
+![](ekran.gif)
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
