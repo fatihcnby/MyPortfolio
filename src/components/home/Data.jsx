@@ -55,7 +55,7 @@ const Data = () => {
           ></path>
         </svg>
       </h1>
-      <h3 className="home_subtitle">Frontent || React Developer </h3>
+      <h3 className="home_subtitle">Frontend || React Developer </h3>
       <p className="home_description">
         Web Sitesi ve Uygulama Geliştirme Alanında Sizlerleyim...
       </p>
